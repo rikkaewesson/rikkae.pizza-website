@@ -1,9 +1,11 @@
 # misplaced_us_website
 
-This is the beginning of my personal website, using nginx's native directory listing to build out pages and navigation. More to come.
+This is the beginning of a personal website, using nginx's native directory listing to build out pages and navigation. More to come.
 
 Everything's hosted completely free in heroku and automatically builds on commit.
 
+
+# Codebase and running instance
 
 Running Instance:
 http://david.misplaced.us
