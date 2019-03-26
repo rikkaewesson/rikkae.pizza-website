@@ -5,7 +5,7 @@ This is the beginning of a personal website, using nginx's native directory list
 Everything's hosted completely free in heroku and automatically builds on commit.
 
 
-# Codebase and running instance
+## Codebase and running instance
 
 Running Instance:
 http://david.misplaced.us
@@ -14,7 +14,7 @@ Sourcecode available here (or view source in your browser):
 https://github.com/sover02/misplaced_us_website
 
 
-# License info
+## License info
 
 /*
  * ----------------------------------------------------------------------------
