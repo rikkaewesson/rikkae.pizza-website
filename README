@@ -4,6 +4,10 @@ This is the beginning of my personal website, using nginx's native directory lis
 
 Everything's hosted completely free in heroku and automatically builds on commit.
 
+
+Running Instance:
+http://david.misplaced.us
+
 Sourcecode available here (or view source in your browser):
 https://github.com/sover02/misplaced_us_website
 
