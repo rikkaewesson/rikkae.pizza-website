@@ -12,6 +12,13 @@ Sourcecode available here (or view source in your browser):
 https://github.com/sover02/misplaced_us_website
 
 
+# Notice
+
+This is using Heroku's php buildpack. The website is using plain text and html only.
+
+If you put a file ending in .php here, it will run. 
+
+
 # License info
 
 /*
