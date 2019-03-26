@@ -1,0 +1,5 @@
+I'm David! I like computers, and non-computer things. I have a wife and three kitties. I'm happiest late at night in a linux command line session on a distant server, or in my home lab here in the DC area. At work, I want to focus on connecting with people on a personal level and solving hard technical problems. 
+
+I like to chase fires – there's no situation that we can't make okay, and there's nothing we can't build and make better. You'll see me in terminal, drawing on a whiteboard, or making an updog joke in slack. 
+
+Let's solve together.
