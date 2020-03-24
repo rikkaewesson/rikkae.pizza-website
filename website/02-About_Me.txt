@@ -1,5 +1,0 @@
-I'm David. I like computers, and non-computer things. I founded Intercept Security (https://intercept.sh) to make security more simple, and to bring security automation to places where it would otherwise be inaccessible. I'm happiest late at night in a linux command line session on a distant server, or in my home lab here in the DC area. At work, I want to focus on connecting with humans on a personal level and solving hard technical problems. 
-
-At work, you'll see me in terminal, drawing on a whiteboard, or making an updog joke in slack. 
-
-Reach out - Let's solve something together.

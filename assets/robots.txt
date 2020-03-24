@@ -1,4 +1,4 @@
 User-Agent: *
-Disallow: 
+Disallow: *
 
-Sitemap: http://david.misplaced.us/sitemap.xml
+Sitemap: /sitemap.xml

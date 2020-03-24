@@ -1,17 +1,15 @@
-# misplaced_us_website
+# rikkae.pizza
 
 This is the beginning of a personal website, using nginx's native directory listing to build out pages and navigation. More to come.
-
-Everything's hosted completely free in heroku and automatically builds on commit.
-
 
 ## Codebase and running instance
 
 Running Instance:
-http://david.misplaced.us
+http://rikkae.com
+http://rikkae.pizza
 
 Sourcecode available here (or view source in your browser):
-https://github.com/sover02/misplaced_us_website
+https://github.com/rikkaewesson/rikkae.pizza-website
 
 
 ## License info
